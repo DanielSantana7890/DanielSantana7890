@@ -18,7 +18,7 @@
   <img align="center" alt="Daniel_Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
   <img align="center" alt="Daniel_html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Daniel_css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-  <img align="right" alt="Gif_animado" heigt="200" width="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNmZHR0OHVpbWtzampoZWtsanRyM25ndXJoOWR0dm8wajh1N3Y3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IVfmPgexqjdYNBWbr/giphy.gif"/>
+  <img align="right" alt="Gif_animado" heigt="200" width="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNmZHR0OHVpbWtzampoZWtsanRyM25ndXJoOWR0dm8wajh1N3Y3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IVfmPgexqjdYNBWbr/giphy.gif"/>
   
 ##
 ---
