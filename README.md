@@ -4,12 +4,6 @@
 💻 Desenvolvedor em formação | 🎓 Engenharia de Software | 🚀 Apaixonado por tecnologia
 </p>
 
----
-<div>
-  <a href="https://github.com/DanielSantana7890">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantana7890&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
 ##
 
 <div style="display: incline_block"><br>
