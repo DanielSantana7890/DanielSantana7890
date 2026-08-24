@@ -34,10 +34,10 @@
 
 - AWS
 - Desenvolvimento Front-end
-- Engenharia de Software
 - Boas práticas de programação
 - Python
 - SQL
+- Java
 
 ---
 
