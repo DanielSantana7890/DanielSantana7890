@@ -23,7 +23,6 @@
 
 - 🖥️ Técnico em Desenvolvimento de Sistemas (35%)
 - 🎓 Engenharia de Software (6º/7º semestre)
-- 🌱 Atualmente estudando AWS e desenvolvimento Front-end
 - 🚀 Buscando minha evolução constante na área de tecnologia
 <div>
  <a href="https://www.instagram.com/daniel_santana_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""target="!_blank"></a>
