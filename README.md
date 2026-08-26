@@ -35,9 +35,8 @@
 
 ## 📚 Atualmente estudando
 
-- AWS
-- Desenvolvimento Front-end
-- Boas práticas de programação
+- Front-end
+- Back-End
 - Python
 - SQL
 - Java
