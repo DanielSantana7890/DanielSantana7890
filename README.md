@@ -35,7 +35,7 @@
 
 ## 📚 Atualmente estudando
 
-- Front-end(HTML,CSS) 100%
+- Front-end 100% (HTML,CSS) 
 - POO 100%
 - Java Script 30%
 - Back-End 50%
