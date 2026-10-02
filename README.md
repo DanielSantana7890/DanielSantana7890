@@ -42,6 +42,8 @@
 - Python 85%
 - SQL 0%
 - Java 0%
+- C# 0%
+- .NET 0%
 
 ---
 
