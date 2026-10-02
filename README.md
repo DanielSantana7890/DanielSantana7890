@@ -21,7 +21,7 @@
   
 ## 👨‍💻 Sobre mim
 
-- 🖥️ Técnico em Desenvolvimento de Sistemas (35%)
+- 🖥️ Técnico em Desenvolvimento de Sistemas (55%)
 - 🎓 Engenharia de Software (6º/7º semestre)
 - 🚀 Buscando minha evolução constante na área de tecnologia
 <div>
