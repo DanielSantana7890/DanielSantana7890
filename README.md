@@ -35,11 +35,13 @@
 
 ## 📚 Atualmente estudando
 
-- Front-end
-- Back-End
-- Python
-- SQL
-- Java
+- Front-end(HTML,CSS) 100%
+- POO 100%
+- Java Script 30%
+- Back-End 50%
+- Python 85%
+- SQL 0%
+- Java 0%
 
 ---
 
