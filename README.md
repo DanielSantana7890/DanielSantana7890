@@ -41,7 +41,7 @@
 - Back-End 50%
 - Python 85%
 - SQL 0%
-- Java 0%
+- Java 10%
 - C# 0%
 - .NET 0%
 
