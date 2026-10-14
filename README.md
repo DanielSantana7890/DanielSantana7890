@@ -46,7 +46,6 @@
 - Java Script 50%
 - Back-End 50%
 - Python 95%
-- SQL 0%
 - Java 20%
 - C# 20%
 - PHP 20%
