@@ -8,7 +8,9 @@
 💻 Desenvolvedor em formação | 🎓 Engenharia de Software | 🚀 Apaixonado por tecnologia
 </p>
 
-##
+---
+
+## 🎓 Skills
 
 <div style="display: incline_block"><br>
   <img align="center" alt="Daniel_PyCharm#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pycharm/pycharm-original.svg"/>
@@ -57,6 +59,10 @@
 - 📚 Aprender novas tecnologias constantemente
 - 🤝 Participar de projetos Open Source
 - 💡 Desenvolver soluções que impactem pessoas
+
+---
+
+## 🤝 Contribuições
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielSantana7890/DanielSantana7890/output/github-contribution-grid-snake-dark.svg">
