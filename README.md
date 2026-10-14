@@ -11,6 +11,10 @@
 ##
 
 <div style="display: incline_block"><br>
+  <img align="center" alt="Daniel_PyCharm#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pycharm/pycharm-original.svg"/>
+  <img align="center" alt="Daniel_PHP#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/php/php-original.svg"/>
+  <img align="center" alt="Daniel_JS#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg"/> 
+  <img align="center" alt="Daniel_C#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Daniel_Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>     
   <img align="center" alt="Daniel_Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
   <img align="center" alt="Daniel_html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -43,7 +47,6 @@
 - SQL 0%
 - Java 20%
 - C# 10%
-- .NET 5%
 
 ---
 
