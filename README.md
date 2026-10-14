@@ -37,13 +37,13 @@
 
 - Front-end 100% (HTML,CSS) 
 - POO 100%
-- Java Script 30%
+- Java Script 50%
 - Back-End 50%
-- Python 85%
+- Python 95%
 - SQL 0%
-- Java 10%
-- C# 0%
-- .NET 0%
+- Java 20%
+- C# 10%
+- .NET 5%
 
 ---
 
