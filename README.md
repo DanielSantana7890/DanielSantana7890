@@ -21,6 +21,8 @@
   <img align="center" alt="Daniel_Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
   <img align="center" alt="Daniel_html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Daniel_css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+  <img align="center" alt="Daniel_figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" /> 
+  <img align="center" alt="Daniel_react" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original-wordmark.svg" />
   
 
 ---
