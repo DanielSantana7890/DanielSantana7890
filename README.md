@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
