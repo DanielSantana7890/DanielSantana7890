@@ -29,7 +29,7 @@
   
 ## 👨‍💻 Sobre mim
 
-- 🖥️ Técnico em Desenvolvimento de Sistemas (75%)
+- 🖥️ Técnico em Desenvolvimento de Sistemas (85%)
 - 🎓 Engenharia de Software (6º/7º semestre)
 - 🚀 Buscando minha evolução constante na área de tecnologia
 <div>
@@ -51,6 +51,8 @@
 - Java 20%
 - C# 20%
 - PHP 20%
+- React 50%
+- Figma 100%
 
 ---
 
