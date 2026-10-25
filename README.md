@@ -71,7 +71,7 @@
 - POO 100%
 - Java Script 50%
 - Back-End 50%
-- Python 95%
+- Python 100%
 - Java 20%
 - C# 20%
 - PHP 20%
