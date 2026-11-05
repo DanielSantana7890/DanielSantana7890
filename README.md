@@ -36,30 +36,20 @@
   <img align="center" alt="Daniel_figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" /> 
   <img align="center" alt="Daniel_react" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original-wordmark.svg" />
   
-
 ---
 
 ## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DanielSantana7890&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantana7890&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=DanielSantana7890&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f97316&currStreakLabel=ffffff"
+    alt="GitHub Streak"
+    height="150"
   />
+</p>
 
 </p>
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
