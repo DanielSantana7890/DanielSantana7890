@@ -53,20 +53,6 @@
 
 ---
 
-## 📚 Atualmente estudando
-
-- Front-end 100% 
-- POO 100%
-- Back-End 100%
-- Python 100%
-- Java 20%
-- C# 40%
-- PHP 70%
-- React 70%
-- Figma 100%
-
----
-
 ## 🎯 Objetivos
 
 - 📚 Aprender novas tecnologias constantemente
