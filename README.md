@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-💻 Desenvolvedor em formação | 🎓 Engenharia de Software | 🚀 Apaixonado por tecnologia
+📌 Software dev | 📌 Web Dev | 📌 Motion
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 - 🖥️ Técnico em Desenvolvimento de Sistemas (85%)
 - 🎓 Engenharia de Software (6º/7º semestre)
-- 🚀 Buscando minha evolução constante na área de tecnologia
+- 🚀 Vamos pra Cima! 
 <div>
  <a href="https://www.instagram.com/daniel_santana_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""target="!_blank"></a>
  <a href="https://www.linkedin.com/in/daniel-santana-8a1454384" target="_blank">
@@ -69,10 +69,9 @@
 
 ## 🎯 Objetivos
 
-- 🚀 Me tornar um Desenvolvedor Full Stack
 - 📚 Aprender novas tecnologias constantemente
 - 🤝 Participar de projetos Open Source
-- 💡 Desenvolver soluções que impactem pessoas
+- 💡 Desenvolver novas soluções
 
 ---
 
