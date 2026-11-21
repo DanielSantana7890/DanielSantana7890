@@ -34,18 +34,35 @@
   </picture>
 </h2>
 
-Sou **Daniel Santana**, de **Campo Grande MS, Brasil**. Meu foco é **Full-Stack**, **Inteligência Artificial** e **Motion** — desenvolvimento, tecnologia e criatividade no mesmo lugar.
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/editor.svg" />
+  <img src="assets/editor.svg" alt="Perfil de Daniel Santana em um editor Python: Full-Stack, Inteligência Artificial, Motion e disponibilidade para novos desafios." width="46%" align="right" />
+</picture>
 
-- 🖥️ Técnico em Desenvolvimento de Sistemas (85%)
-- 🎓 Engenharia de Software (6º/7º semestre)
-- 🚀 Vamos pra Cima!
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/intro.svg" />
+  <img src="assets/intro.svg" alt="Olá, mundo! Eu sou o Daniel 👋" width="50%" />
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/editor.svg" />
-    <img src="assets/editor.svg" alt="Perfil de Daniel Santana em um editor Python: Full-Stack, Inteligência Artificial, Motion e disponibilidade para novos desafios." width="570" />
-  </picture>
-</p>
+<br />
+
+<div align="justify">
+
+Sou **Daniel Santana**, de **Campo Grande MS, Brasil**. Meu foco é o desenvolvimento `Full-Stack`, conectando `Front-end` e `Back-end` para transformar ideias em aplicações. Também tenho interesse em **Inteligência Artificial** e **Motion**, unindo tecnologia, movimento e criatividade.
+
+Minha formação está em andamento: **Técnico em Desenvolvimento de Sistemas (85%)** e **Engenharia de Software (6º/7º semestre)**.
+
+Busco aprender novas tecnologias, desenvolver novas soluções e participar de projetos **Open Source**. Estou **pronto para novos desafios** e colaborações. **Vamos pra Cima!** 🚀
+
+</div>
+
+<br clear="right" />
+
+```diff
++ Full-Stack, Inteligência Artificial e Motion
++ Aprendendo novas tecnologias e criando soluções
++ Pronto para novos desafios e colaborações
+```
 
 <br />
 

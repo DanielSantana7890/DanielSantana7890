@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="38" viewBox="0 0 500 38" role="img" aria-labelledby="intro-title intro-description">
+  <title id="intro-title">Olá, mundo! Eu sou o Daniel</title>
+  <desc id="intro-description">Saudação em estilo terminal, com digitação que se repete e uma pausa para leitura.</desc>
+  <defs>
+    <clipPath id="intro-reveal">
+      <rect x="0" y="0" width="500" height="38">
+        <animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0;0.05;0.35;0.90;0.98;1" dur="12s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="0" y="26" fill="#39d353" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="600" xml:space="preserve" clip-path="url(#intro-reveal)">&gt; Olá, mundo! Eu sou o Daniel 👋</text>
+</svg>

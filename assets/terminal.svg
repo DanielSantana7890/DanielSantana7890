@@ -1,20 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="370" viewBox="0 0 1000 370" role="img" aria-labelledby="terminal-title terminal-description">
   <title id="terminal-title">Daniel Santana — Full-Stack, Inteligência Artificial e Motion</title>
-  <desc id="terminal-description">Terminal animado de daniel@github. Daniel Santana, de Campo Grande MS, Brasil. Após o carregamento: pronto para novos desafios. Iniciais DS em azul à direita.</desc>
+  <desc id="terminal-description">Terminal animado de daniel@github. Daniel Santana, de Campo Grande MS, Brasil. Após o carregamento: pronto para novos desafios. A sequência se repete a cada 18 segundos. Iniciais DS em azul à direita.</desc>
 
   <style>
     text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:17px;white-space:pre}
     .window-title{font-size:14px}
     .caption{font-size:13px}
-    .o{opacity:0;animation:o .01s linear forwards}
-    @keyframes o{to{opacity:1}}
-    @keyframes tp{to{transform:translateX(var(--w));width:0}}
+    .o{opacity:0;animation-duration:18s;animation-timing-function:linear;animation-iteration-count:infinite}
     .bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0)}
-    @keyframes bar{from{transform:scaleX(0)}to{transform:scaleX(1)}}
-    .cur{opacity:0;animation:o .01s linear forwards,bl 1s steps(1) infinite}
+    @keyframes bar{0%,40.388889%{transform:scaleX(0)}53.722222%,100%{transform:scaleX(1)}}
+    .cur{opacity:0;animation:show-cursor 18s linear infinite,bl 1s steps(1) infinite}
     @keyframes bl{50%{fill:transparent}}
     .glow2{animation:gl 3s ease-in-out infinite}
     @keyframes gl{50%{opacity:.6}}
+    /* A sequência repete a cada 18s, com cerca de 8s para leitura. */
+    @keyframes show-050{0%,2.777778%{opacity:0}2.833333%,100%{opacity:1}}
+    @keyframes show-151{0%,8.388889%{opacity:0}8.444444%,100%{opacity:1}}
+    @keyframes show-176{0%,9.777778%{opacity:0}9.833333%,100%{opacity:1}}
+    @keyframes show-313{0%,17.388889%{opacity:0}17.444444%,100%{opacity:1}}
+    @keyframes show-338{0%,18.777778%{opacity:0}18.833333%,100%{opacity:1}}
+    @keyframes show-505{0%,28.055556%{opacity:0}28.111111%,100%{opacity:1}}
+    @keyframes show-530{0%,29.444444%{opacity:0}29.5%,100%{opacity:1}}
+    @keyframes show-727{0%,40.388889%{opacity:0}40.444444%,100%{opacity:1}}
+    @keyframes show-977{0%,54.277778%{opacity:0}54.333333%,100%{opacity:1}}
+    @keyframes show-997{0%,55.388889%{opacity:0}55.444444%,100%{opacity:1}}
+    @keyframes type-080{0%,4.444444%{transform:translateX(0);width:var(--w)}6.444444%,100%{transform:translateX(var(--w));width:0}}
+    @keyframes type-206{0%,11.444444%{transform:translateX(0);width:var(--w)}15.444444%,100%{transform:translateX(var(--w));width:0}}
+    @keyframes type-368{0%,20.444444%{transform:translateX(0);width:var(--w)}26.111111%,100%{transform:translateX(var(--w));width:0}}
+    @keyframes type-560{0%,31.111111%{transform:translateX(0);width:var(--w)}38.444444%,100%{transform:translateX(var(--w));width:0}}
+    @keyframes show-cursor{0%,55.388889%{opacity:0}55.444444%,100%{opacity:1}}
   </style>
 
   <defs>
@@ -79,26 +93,26 @@
   </g>
   <text x="840.5" y="240" text-anchor="middle" fill="#8b949e" class="caption">// full-stack · ia · motion</text>
 
-  <text x="30" y="96" class="o" style="animation-delay:0.50s"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">whoami</tspan></text>
-  <rect x="203.4" y="80" width="65" height="22" fill="#0d1117" class="tp" style="--w:65px;animation:tp 0.36s steps(6) 0.80s forwards"/>
-  <text x="30" y="124" class="o" style="animation-delay:1.51s"><tspan fill="#c9d1d9" font-size="26" font-weight="700">Daniel Santana</tspan></text>
+  <text x="30" y="96" class="o" style="animation-name:show-050"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">whoami</tspan></text>
+  <rect x="203.4" y="80" width="65" height="22" fill="#0d1117" class="tp" style="--w:65px;animation:type-080 18s steps(6) infinite"/>
+  <text x="30" y="124" class="o" style="animation-name:show-151"><tspan fill="#c9d1d9" font-size="26" font-weight="700">Daniel Santana</tspan></text>
 
-  <text x="30" y="158" class="o" style="animation-delay:1.76s"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">cat foco.txt</tspan></text>
-  <rect x="203.4" y="142" width="126" height="22" fill="#0d1117" class="tp" style="--w:126px;animation:tp 0.72s steps(12) 2.06s forwards"/>
-  <text x="30" y="186" class="o" style="animation-delay:3.13s"><tspan fill="#d2a8ff">Full-Stack</tspan><tspan fill="#8b949e">  &amp;&amp;  </tspan><tspan fill="#ffa657">Inteligência Artificial</tspan><tspan fill="#8b949e">  &amp;&amp;  </tspan><tspan fill="#79c0ff">Motion</tspan></text>
+  <text x="30" y="158" class="o" style="animation-name:show-176"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">cat foco.txt</tspan></text>
+  <rect x="203.4" y="142" width="126" height="22" fill="#0d1117" class="tp" style="--w:126px;animation:type-206 18s steps(12) infinite"/>
+  <text x="30" y="186" class="o" style="animation-name:show-313"><tspan fill="#d2a8ff">Full-Stack</tspan><tspan fill="#8b949e">  &amp;&amp;  </tspan><tspan fill="#ffa657">Inteligência Artificial</tspan><tspan fill="#8b949e">  &amp;&amp;  </tspan><tspan fill="#79c0ff">Motion</tspan></text>
 
-  <text x="30" y="214" class="o" style="animation-delay:3.38s"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">echo $LOCALIZACAO</tspan></text>
-  <rect x="203.4" y="198" width="177" height="22" fill="#0d1117" class="tp" style="--w:177px;animation:tp 1.02s steps(17) 3.68s forwards"/>
-  <text x="30" y="242" class="o" style="animation-delay:5.05s"><tspan fill="#a5d6ff">Campo Grande MS, Brasil</tspan></text>
+  <text x="30" y="214" class="o" style="animation-name:show-338"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">echo $LOCALIZACAO</tspan></text>
+  <rect x="203.4" y="198" width="177" height="22" fill="#0d1117" class="tp" style="--w:177px;animation:type-368 18s steps(17) infinite"/>
+  <text x="30" y="242" class="o" style="animation-name:show-505"><tspan fill="#a5d6ff">Campo Grande MS, Brasil</tspan></text>
 
-  <text x="30" y="270" class="o" style="animation-delay:5.30s"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">./carregar_carreira.sh</tspan></text>
-  <rect x="203.4" y="254" width="228" height="22" fill="#0d1117" class="tp" style="--w:228px;animation:tp 1.32s steps(22) 5.60s forwards"/>
-  <text x="30" y="298" class="o" style="animation-delay:7.27s"><tspan fill="#8b949e">[</tspan></text>
-  <rect x="44" y="285" width="300" height="14" rx="2" fill="#161b22" class="o" style="animation-delay:7.27s"/>
-  <rect x="44" y="285" width="300" height="14" rx="2" fill="#39d353" class="bar" style="animation:bar 2.4s steps(20) 7.27s forwards"/>
-  <text x="350" y="298" class="o" style="animation-delay:7.27s"><tspan fill="#8b949e">]</tspan></text>
-  <text x="370" y="298" class="o" style="animation-delay:9.77s"><tspan fill="#39d353">✔ pronto para novos desafios</tspan></text>
+  <text x="30" y="270" class="o" style="animation-name:show-530"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">./carregar_carreira.sh</tspan></text>
+  <rect x="203.4" y="254" width="228" height="22" fill="#0d1117" class="tp" style="--w:228px;animation:type-560 18s steps(22) infinite"/>
+  <text x="30" y="298" class="o" style="animation-name:show-727"><tspan fill="#8b949e">[</tspan></text>
+  <rect x="44" y="285" width="300" height="14" rx="2" fill="#161b22" class="o" style="animation-name:show-727"/>
+  <rect x="44" y="285" width="300" height="14" rx="2" fill="#39d353" class="bar" style="animation:bar 18s steps(20) infinite"/>
+  <text x="350" y="298" class="o" style="animation-name:show-727"><tspan fill="#8b949e">]</tspan></text>
+  <text x="370" y="298" class="o" style="animation-name:show-977"><tspan fill="#39d353">✔ pronto para novos desafios</tspan></text>
 
-  <text x="30" y="328" class="o" style="animation-delay:9.97s"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
-  <rect x="203.4" y="313" width="10" height="19" fill="#c9d1d9" class="cur" style="animation-delay:9.97s"/>
+  <text x="30" y="328" class="o" style="animation-name:show-997"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+  <rect x="203.4" y="313" width="10" height="19" fill="#c9d1d9" class="cur"/>
 </svg>
