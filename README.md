@@ -46,7 +46,10 @@
 
 <div align="justify">
 
-Sou **Daniel Santana**, de **Campo Grande MS, Brasil**. Meu foco é **Full-Stack**, **Inteligência Artificial** e **Motion** — desenvolvimento, tecnologia e criatividade no mesmo lugar.
+Sou desenvolvedor `Full Stack`, atuando tanto no `Front-end` quanto no `Back-end` e estou me aperfeiçoando em lógica e APIs e os dados que fazem as aplicações funcionarem de verdade. Também exploro **Inteligência Artificial** e como ela pode deixar esses sistemas mais inteligentes!
+Fora da tela, sigo estudando em livros relacionados a programação e pratico com sensores, motores e muita tentativa e erro.
+Programo em `Python`, `JavaScript` e `React` , e atualmente estou me aprofundando em **php**!
+Sou muito curioso, estou sempre aprendendo algo novo e buscando novos desafios na área de tecnologia!
 
 - 🖥️ Técnico em Desenvolvimento de Sistemas (85%)
 - 🎓 Engenharia de Software (6º/7º semestre)
