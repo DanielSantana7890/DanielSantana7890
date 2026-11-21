@@ -6,53 +6,52 @@
 
 <!-- A preferência de movimento é aplicada no HTML para manter os SVGs animados compatíveis com imagens no GitHub. -->
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/terminal.svg" />
-    <img src="assets/terminal.svg" alt="Daniel Santana — Full-Stack, Inteligência Artificial e Motion. Campo Grande MS, Brasil." width="100%" />
-  </picture>
+  <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/terminal.svg">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/terminal.svg" />
+      <img src="assets/terminal.svg" alt="Terminal animado" width="100%" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.instagram.com/daniel_santana_dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram de Daniel Santana" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/daniel-santana-8a1454384/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de Daniel Santana" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  <samp>Campo Grande MS, Brasil · pronto para novos desafios.</samp>
 </p>
 
 <br />
 
 <h2 id="sobre-mim">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-sobre.svg" />
-    <img src="assets/h-sobre.svg" alt="Sobre mim" width="100%" />
-  </picture>
+  <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/h-sobre.svg">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-sobre.svg" />
+      <img src="assets/h-sobre.svg" alt="Sobre mim" width="100%" />
+    </picture>
+  </a>
 </h2>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/editor.svg" />
-  <img src="assets/editor.svg" alt="Perfil de Daniel Santana em um editor Python: Full-Stack, Inteligência Artificial, Motion e disponibilidade para novos desafios." width="46%" align="right" />
+  <img src="assets/editor.svg" alt="Editor" width="46%" align="right" />
 </picture>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/intro.svg" />
-  <img src="assets/intro.svg" alt="Olá, mundo! Eu sou o Daniel 👋" width="50%" />
+  <img src="assets/intro.svg" alt="Olá" width="50%" />
 </picture>
 
 <br />
 
 <div align="justify">
 
-Sou **Daniel Santana**, de **Campo Grande MS, Brasil**. Meu foco é o desenvolvimento `Full-Stack`, conectando `Front-end` e `Back-end` para transformar ideias em aplicações. Também tenho interesse em **Inteligência Artificial** e **Motion**, unindo tecnologia, movimento e criatividade.
+Sou **Daniel Santana**, de **Campo Grande MS, Brasil**. Foco em `Full-Stack`, `Inteligência Artificial` e `Motion`.
 
-Minha formação está em andamento: **Técnico em Desenvolvimento de Sistemas (85%)** e **Engenharia de Software (6º/7º semestre)**.
-
-Busco aprender novas tecnologias, desenvolver novas soluções e participar de projetos **Open Source**. Estou **pronto para novos desafios** e colaborações. **Vamos pra Cima!** 🚀
+Formação: **Técnico em Desenvolvimento de Sistemas** e **Engenharia de Software**.
+Busco desafios e colaborações. **Vamos pra Cima!** 🚀
 
 </div>
 
@@ -67,29 +66,33 @@ Busco aprender novas tecnologias, desenvolver novas soluções e participar de p
 <br />
 
 <h2 id="skills">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-skills.svg" />
-    <img src="assets/h-skills.svg" alt="Skills" width="100%" />
-  </picture>
+  <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/h-skills.svg">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-skills.svg" />
+      <img src="assets/h-skills.svg" alt="Skills" width="100%" />
+    </picture>
+  </a>
 </h2>
 
 <p align="center">
-  <img src="assets/skills.svg" alt="PyCharm, PHP, JavaScript, C#, Python, Java, Figma e React" width="635" />
+  <img src="assets/skills.svg" alt="Tecnologias" width="635" />
 </p>
 
 <br />
 
 <h2 id="estatisticas">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-estatisticas.svg" />
-    <img src="assets/h-estatisticas.svg" alt="Estatísticas" width="100%" />
-  </picture>
+  <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/h-estatisticas.svg">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-estatisticas.svg" />
+      <img src="assets/h-estatisticas.svg" alt="Estatísticas" width="100%" />
+    </picture>
+  </a>
 </h2>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=DanielSantana7890&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=38bdf8&amp;fire=f97316&amp;currStreakLabel=ffffff"
-    alt="Sequência de contribuições de Daniel Santana no GitHub"
+    alt="GitHub Streak"
     height="150"
   />
 </p>
@@ -97,10 +100,12 @@ Busco aprender novas tecnologias, desenvolver novas soluções e participar de p
 <br />
 
 <h2 id="objetivos">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-objetivos.svg" />
-    <img src="assets/h-objetivos.svg" alt="Objetivos" width="100%" />
-  </picture>
+  <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/h-objetivos.svg">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-objetivos.svg" />
+      <img src="assets/h-objetivos.svg" alt="Objetivos" width="100%" />
+    </picture>
+  </a>
 </h2>
 
 ```diff
@@ -113,23 +118,27 @@ Busco aprender novas tecnologias, desenvolver novas soluções e participar de p
 <br />
 
 <h2 id="contribuicoes">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-contribuicoes.svg" />
-    <img src="assets/h-contribuicoes.svg" alt="Contribuições" width="100%" />
-  </picture>
+  <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/h-contribuicoes.svg">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-contribuicoes.svg" />
+      <img src="assets/h-contribuicoes.svg" alt="Contribuições" width="100%" />
+    </picture>
+  </a>
 </h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielSantana7890/DanielSantana7890/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielSantana7890/DanielSantana7890/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Animação das contribuições de Daniel Santana no GitHub" src="https://raw.githubusercontent.com/DanielSantana7890/DanielSantana7890/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="Contribuições" src="https://raw.githubusercontent.com/DanielSantana7890/DanielSantana7890/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 <br />
 
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/rodape.svg" />
-    <img src="assets/rodape.svg" alt="daniel@github: obrigado pela visita! volte sempre :)" width="100%" />
-  </picture>
+  <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/rodape.svg">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/rodape.svg" />
+      <img src="assets/rodape.svg" alt="Rodapé" width="100%" />
+    </picture>
+  </a>
 </p>
