@@ -18,7 +18,7 @@
   <a href="https://danielsantana-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/PORTF%C3%93LIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=39d353" alt="Portfólio" />
   </a>
-  <img src="https://img.shields.io/badge/CAMPO_GRANDE,_MS-0D1117?style=for-the-badge" alt="Localização" />
+  <img src="https://img.shields.io/badge/CAMPO_GRANDE,_MS-0D1117?style=for-the-badge&logo=googlemaps&logoColor=a5d6ff" alt="Localização" />
 </p>
 
 <br />
