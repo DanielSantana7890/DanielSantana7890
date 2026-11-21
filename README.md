@@ -14,6 +14,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://danielsantana-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=39d353" alt="Portfólio" />
+  </a>
+  <img src="https://img.shields.io/badge/CAMPO_GRANDE,_MS-0D1117?style=for-the-badge&logo=google-maps&logoColor=a5d6ff" alt="Localização" />
+  <img src="https://komarev.com/ghpvc/?username=DanielSantana7890&style=for-the-badge&color=8b949e&label=VISITAS" alt="Contador de visitas" />
+</p>
+
 <br />
 
 <h2 id="sobre-mim">
