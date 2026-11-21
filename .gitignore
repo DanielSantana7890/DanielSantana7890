@@ -1,0 +1,5 @@
+# Configurações locais do Claude Code
+.claude/
+
+# Configurações locais do VS Code
+.vscode/
