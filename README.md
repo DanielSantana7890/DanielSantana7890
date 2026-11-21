@@ -94,7 +94,7 @@ Sou **Daniel Santana**, de **Campo Grande MS, Brasil**. Meu foco é **Full-Stack
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=DanielSantana7890&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=38bdf8&amp;fire=f97316&amp;currStreakLabel=ffffff"
+    src="https://streak-stats.demolab.com?user=DanielSantana7890&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=39d353&amp;fire=39d353&amp;currStreakLabel=39d353"
     alt="GitHub Streak"
     height="150"
   />
