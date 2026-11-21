@@ -14,15 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/daniel_santana_dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-santana-8a1454384/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 <br />
 
 <h2 id="sobre-mim">
@@ -48,10 +39,22 @@
 
 <div align="justify">
 
-Sou **Daniel Santana**, de **Campo Grande MS, Brasil**. Foco em `Full-Stack`, `Inteligência Artificial` e `Motion`.
+Sou **Daniel Santana**, de **Campo Grande MS, Brasil**. Meu foco é **Full-Stack**, **Inteligência Artificial** e **Motion** — desenvolvimento, tecnologia e criatividade no mesmo lugar.
 
-Formação: **Técnico em Desenvolvimento de Sistemas** e **Engenharia de Software**.
-Busco desafios e colaborações. **Vamos pra Cima!** 🚀
+- 🖥️ Técnico em Desenvolvimento de Sistemas (85%)
+- 🎓 Engenharia de Software (6º/7º semestre)
+- 🚀 Vamos pra Cima!
+
+<br>
+
+<p align="left">
+  <a href="https://www.instagram.com/daniel_santana_dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-santana-8a1454384/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 </div>
 
