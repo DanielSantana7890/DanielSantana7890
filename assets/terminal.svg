@@ -15,12 +15,6 @@
     @keyframes bl{50%{fill:transparent}}
     .glow2{animation:gl 3s ease-in-out infinite}
     @keyframes gl{50%{opacity:.6}}
-    @media (prefers-reduced-motion:reduce){
-      .o,.cur{opacity:1;animation:none}
-      .tp{display:none}
-      .bar{transform:scaleX(1);animation:none!important}
-      .glow2{animation:none}
-    }
   </style>
 
   <defs>

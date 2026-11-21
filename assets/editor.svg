@@ -8,9 +8,6 @@
     .tab-label,.line-number{font-size:13px}
     .ln{opacity:0;animation:ln .35s ease-out forwards}
     @keyframes ln{from{opacity:0;transform:translateX(-5px)}to{opacity:1;transform:none}}
-    @media (prefers-reduced-motion:reduce){
-      .ln{opacity:1;animation:none}
-    }
   </style>
 
   <rect x="1" y="1" width="568" height="358" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>

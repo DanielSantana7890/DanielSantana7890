@@ -3,7 +3,6 @@
   <style>
     .cur{animation:bl 1s steps(1) infinite}
     @keyframes bl{50%{opacity:0}}
-    @media (prefers-reduced-motion:reduce){.cur{animation:none}}
   </style>
   <defs>
     <linearGradient id="line-gradient" x1="0" y1="0" x2="1" y2="0">

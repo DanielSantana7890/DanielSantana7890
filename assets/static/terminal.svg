@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="370" viewBox="0 0 1000 370" role="img" aria-labelledby="terminal-title terminal-description">
+  <title id="terminal-title">Daniel Santana — Full-Stack, Inteligência Artificial e Motion</title>
+  <desc id="terminal-description">Terminal estático de daniel@github. Daniel Santana, de Campo Grande MS, Brasil. Após o carregamento: pronto para novos desafios. Iniciais DS em azul à direita.</desc>
+
+  <style>
+
+    text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:17px;white-space:pre}
+
+    .window-title{font-size:14px}
+
+    .caption{font-size:13px}
+</style>
+
+  <defs>
+    <linearGradient id="mg" gradientUnits="userSpaceOnUse" x1="770" y1="112" x2="911" y2="201">
+      <stop offset="0" stop-color="#79c0ff" />
+      <stop offset="1" stop-color="#388bfd" />
+    </linearGradient>
+    <filter id="gw" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="368" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2" />
+  <path d="M1 15 a14 14 0 0 1 14 -14 H985 a14 14 0 0 1 14 14 V46 H1Z" fill="#161b22" />
+  <rect x="1" y="46" width="998" height="1" fill="#30363d" />
+  <circle cx="28" cy="24" r="7" fill="#ff5f57" />
+  <circle cx="50" cy="24" r="7" fill="#febc2e" />
+  <circle cx="72" cy="24" r="7" fill="#28c840" />
+  <text x="500" y="29" text-anchor="middle" fill="#8b949e" class="window-title">daniel@github: ~ — bash</text>
+
+  <g class="glow2" filter="url(#gw)" fill="url(#mg)" aria-hidden="true">
+
+    <rect x="770" y="112" width="11" height="11" rx="2" />
+    <rect x="783" y="112" width="11" height="11" rx="2" />
+    <rect x="796" y="112" width="11" height="11" rx="2" />
+    <rect x="809" y="112" width="11" height="11" rx="2" />
+    <rect x="770" y="125" width="11" height="11" rx="2" />
+    <rect x="822" y="125" width="11" height="11" rx="2" />
+    <rect x="770" y="138" width="11" height="11" rx="2" />
+    <rect x="822" y="138" width="11" height="11" rx="2" />
+    <rect x="770" y="151" width="11" height="11" rx="2" />
+    <rect x="822" y="151" width="11" height="11" rx="2" />
+    <rect x="770" y="164" width="11" height="11" rx="2" />
+    <rect x="822" y="164" width="11" height="11" rx="2" />
+    <rect x="770" y="177" width="11" height="11" rx="2" />
+    <rect x="822" y="177" width="11" height="11" rx="2" />
+    <rect x="770" y="190" width="11" height="11" rx="2" />
+    <rect x="783" y="190" width="11" height="11" rx="2" />
+    <rect x="796" y="190" width="11" height="11" rx="2" />
+    <rect x="809" y="190" width="11" height="11" rx="2" />
+
+
+    <rect x="861" y="112" width="11" height="11" rx="2" />
+    <rect x="874" y="112" width="11" height="11" rx="2" />
+    <rect x="887" y="112" width="11" height="11" rx="2" />
+    <rect x="900" y="112" width="11" height="11" rx="2" />
+    <rect x="848" y="125" width="11" height="11" rx="2" />
+    <rect x="848" y="138" width="11" height="11" rx="2" />
+    <rect x="861" y="151" width="11" height="11" rx="2" />
+    <rect x="874" y="151" width="11" height="11" rx="2" />
+    <rect x="887" y="151" width="11" height="11" rx="2" />
+    <rect x="900" y="164" width="11" height="11" rx="2" />
+    <rect x="900" y="177" width="11" height="11" rx="2" />
+    <rect x="848" y="190" width="11" height="11" rx="2" />
+    <rect x="861" y="190" width="11" height="11" rx="2" />
+    <rect x="874" y="190" width="11" height="11" rx="2" />
+    <rect x="887" y="190" width="11" height="11" rx="2" />
+  </g>
+  <text x="840.5" y="240" text-anchor="middle" fill="#8b949e" class="caption">// full-stack · ia · motion</text>
+
+  <text x="30" y="96" class="o" opacity="1"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">whoami</tspan></text>
+  <rect x="203.4" y="80" width="65" height="22" fill="#0d1117" class="tp" display="none" />
+  <text x="30" y="124" class="o" opacity="1"><tspan fill="#c9d1d9" font-size="26" font-weight="700">Daniel Santana</tspan></text>
+
+  <text x="30" y="158" class="o" opacity="1"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">cat foco.txt</tspan></text>
+  <rect x="203.4" y="142" width="126" height="22" fill="#0d1117" class="tp" display="none" />
+  <text x="30" y="186" class="o" opacity="1"><tspan fill="#d2a8ff">Full-Stack</tspan><tspan fill="#8b949e">  &amp;&amp;  </tspan><tspan fill="#ffa657">Inteligência Artificial</tspan><tspan fill="#8b949e">  &amp;&amp;  </tspan><tspan fill="#79c0ff">Motion</tspan></text>
+
+  <text x="30" y="214" class="o" opacity="1"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">echo $LOCALIZACAO</tspan></text>
+  <rect x="203.4" y="198" width="177" height="22" fill="#0d1117" class="tp" display="none" />
+  <text x="30" y="242" class="o" opacity="1"><tspan fill="#a5d6ff">Campo Grande MS, Brasil</tspan></text>
+
+  <text x="30" y="270" class="o" opacity="1"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan x="203.4" fill="#c9d1d9">./carregar_carreira.sh</tspan></text>
+  <rect x="203.4" y="254" width="228" height="22" fill="#0d1117" class="tp" display="none" />
+  <text x="30" y="298" class="o" opacity="1"><tspan fill="#8b949e">[</tspan></text>
+  <rect x="44" y="285" width="300" height="14" rx="2" fill="#161b22" class="o" opacity="1" />
+  <rect x="44" y="285" width="300" height="14" rx="2" fill="#39d353" class="bar" />
+  <text x="350" y="298" class="o" opacity="1"><tspan fill="#8b949e">]</tspan></text>
+  <text x="370" y="298" class="o" opacity="1"><tspan fill="#39d353">✔ pronto para novos desafios</tspan></text>
+
+  <text x="30" y="328" class="o" opacity="1"><tspan fill="#39d353">daniel@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+  <rect x="203.4" y="313" width="10" height="19" fill="#c9d1d9" class="cur" opacity="1" />
+</svg>
