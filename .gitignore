@@ -3,3 +3,7 @@
 
 # Configurações locais do VS Code
 .vscode/
+
+# Cache gerado pelos testes Python
+__pycache__/
+*.py[cod]

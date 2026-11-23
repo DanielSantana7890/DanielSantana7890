@@ -4,13 +4,9 @@
   </a>
 </div>
 
-<!-- A preferência de movimento é aplicada no HTML para manter os SVGs animados compatíveis com imagens no GitHub. -->
 <p align="center">
   <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/terminal.svg">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/terminal.svg" />
-      <img src="assets/terminal.svg" alt="Terminal animado" width="100%" />
-    </picture>
+    <img src="assets/terminal.svg?v=animated-2" alt="Terminal animado" width="100%" />
   </a>
 </p>
 
@@ -25,22 +21,13 @@
 
 <h2 id="sobre-mim">
   <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/h-sobre.svg">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-sobre.svg" />
-      <img src="assets/h-sobre.svg" alt="Sobre mim" width="100%" />
-    </picture>
+    <img src="assets/h-sobre.svg?v=animated-2" alt="Sobre mim" width="100%" />
   </a>
 </h2>
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/editor.svg" />
-  <img src="assets/editor.svg" alt="Editor" width="46%" align="right" />
-</picture>
+<a href="https://github.com/DanielSantana7890/DanielSantana7890/blob/main/assets/editor.svg"><img src="assets/editor.svg?v=animated-2" alt="Editor" width="46%" align="right" /></a>
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/intro.svg" />
-  <img src="assets/intro.svg" alt="Olá" width="50%" />
-</picture>
+<a href="https://github.com/DanielSantana7890/DanielSantana7890/blob/main/assets/intro.svg"><img src="assets/intro.svg?v=animated-2" alt="Olá, mundo! Eu sou o Daniel" width="50%" /></a>
 
 <br />
 
@@ -80,10 +67,7 @@ Sou muito curioso, estou sempre aprendendo algo novo e buscando novos desafios n
 
 <h2 id="skills">
   <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/h-skills.svg">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-skills.svg" />
-      <img src="assets/h-skills.svg" alt="Skills" width="100%" />
-    </picture>
+    <img src="assets/h-skills.svg?v=animated-2" alt="Skills" width="100%" />
   </a>
 </h2>
 
@@ -95,10 +79,7 @@ Sou muito curioso, estou sempre aprendendo algo novo e buscando novos desafios n
 
 <h2 id="estatisticas">
   <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/h-estatisticas.svg">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-estatisticas.svg" />
-      <img src="assets/h-estatisticas.svg" alt="Estatísticas" width="100%" />
-    </picture>
+    <img src="assets/h-estatisticas.svg?v=animated-2" alt="Estatísticas" width="100%" />
   </a>
 </h2>
 
@@ -114,10 +95,7 @@ Sou muito curioso, estou sempre aprendendo algo novo e buscando novos desafios n
 
 <h2 id="objetivos">
   <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/h-objetivos.svg">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-objetivos.svg" />
-      <img src="assets/h-objetivos.svg" alt="Objetivos" width="100%" />
-    </picture>
+    <img src="assets/h-objetivos.svg?v=animated-2" alt="Objetivos" width="100%" />
   </a>
 </h2>
 
@@ -132,10 +110,7 @@ Sou muito curioso, estou sempre aprendendo algo novo e buscando novos desafios n
 
 <h2 id="contribuicoes">
   <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/h-contribuicoes.svg">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/h-contribuicoes.svg" />
-      <img src="assets/h-contribuicoes.svg" alt="Contribuições" width="100%" />
-    </picture>
+    <img src="assets/h-contribuicoes.svg?v=animated-2" alt="Contribuições" width="100%" />
   </a>
 </h2>
 
@@ -149,9 +124,6 @@ Sou muito curioso, estou sempre aprendendo algo novo e buscando novos desafios n
 
 <p align="center">
   <a href="https://github.com/DanielSantana7890/DanielSantana7890/tree/main/assets/rodape.svg">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/rodape.svg" />
-      <img src="assets/rodape.svg" alt="Rodapé" width="100%" />
-    </picture>
+    <img src="assets/rodape.svg?v=animated-2" alt="Rodapé" width="100%" />
   </a>
 </p>
