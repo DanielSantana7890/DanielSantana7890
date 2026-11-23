@@ -45,7 +45,7 @@ Sou muito curioso, estou sempre aprendendo algo novo e buscando novos desafios n
 <br>
 
 <p align="left">
-  <a href="https://www.instagram.com/daniel_santana_dev/">
+  <a href="https://www.instagram.com/danielsantana.dev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/daniel-santana-8a1454384/">
